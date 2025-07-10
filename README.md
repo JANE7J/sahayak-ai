@@ -48,5 +48,3 @@ Sahayak solves this by acting as a versatile, multilingual AI assistant that hel
 * /frontend – Flutter UI (coming soon)
 * /backend – Firebase Functions (coming soon)
 
-
-Need help writing the GitHub repo description or README badges? Just let me know — I’ll deliver it in seconds.
