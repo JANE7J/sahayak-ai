@@ -18,28 +18,28 @@ Sahayak solves this by acting as a versatile, multilingual AI assistant that hel
 
 ## 🌟 Key Features
 
-*  Local Content Generator (Gemini – stories, analogies, etc. in regional language)
-*  Differentiated Worksheet Generator from textbook images (OCR + Gemini)
-*  Assignment + Quiz Creator (Auto/Custom + Firebase Save)
-*  Weekly Lesson Planner (based on NCERT or teacher input)
-*  Voice Reading Assessment (Vertex AI Speech-to-Text + CSV Report)
-*  Visual Aids + Diagram Creator (Google Imagen / Gemini)
-*  SCANSHAALA – Student notebook image evaluation with AI feedback
-*  Today ka Vibe – Daily emoji/mood check-in with AI kindness
-*  Whisper Assistant – Real-time voice coaching (Bluetooth + Gemini TTS)
-*  Student Progress Tracker – Assignments, reading, mood, voice logs
-*  Career Guidance Engine – Based on interests + teacher remarks
-*  Scholarship Finder Bot – Matches students to scholarship programs
-*  Offline Mode – Firebase local storage & sync for no-Wi-Fi regions
+    *  Local Content Generator (Gemini – stories, analogies, etc. in regional language)
+    *  Differentiated Worksheet Generator from textbook images (OCR + Gemini)
+    *  Assignment + Quiz Creator (Auto/Custom + Firebase Save)
+    *  Weekly Lesson Planner (based on NCERT or teacher input)
+    *  Voice Reading Assessment (Vertex AI Speech-to-Text + CSV Report)
+    *  Visual Aids + Diagram Creator (Google Imagen / Gemini)
+    *  SCANSHAALA – Student notebook image evaluation with AI feedback
+    *  Today ka Vibe – Daily emoji/mood check-in with AI kindness
+    *  Whisper Assistant – Real-time voice coaching (Bluetooth + Gemini TTS)
+    *  Student Progress Tracker – Assignments, reading, mood, voice logs
+    *  Career Guidance Engine – Based on interests + teacher remarks
+    *  Scholarship Finder Bot – Matches students to scholarship programs
+    *  Offline Mode – Firebase local storage & sync for no-Wi-Fi regions
 
 ## 🛠️ Tech Stack
 
-* Gemini API (via AI Studio)
-* Vertex AI APIs (text, multimodal, speech, OCR)
-* Firebase (Firestore, Auth, Hosting, Functions, Firebase Studio)
-* Flutter (mobile-first UI, regional language support)
-* Google Imagen (diagram generation)
-* Model Garden + Gemini Agent Builder (career bot, quiz AI)
+    * Gemini API (via AI Studio)
+    * Vertex AI APIs (text, multimodal, speech, OCR)
+    * Firebase (Firestore, Auth, Hosting, Functions, Firebase Studio)
+    * Flutter (mobile-first UI, regional language support)
+    * Google Imagen (diagram generation)
+    * Model Garden + Gemini Agent Builder (career bot, quiz AI)
 
 ## 🗂 Folder Structure
 
